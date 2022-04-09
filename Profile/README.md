@@ -3,7 +3,9 @@
 This is CaoYing, this file is about me.
 
 才艺： 说废话
+
 特质： 笑点奇低，一天24h, 有25h都在笑。
+
 照片：
 
 1.2018年，参加军训

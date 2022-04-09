@@ -1,2 +1,2 @@
-# github
-For learning git
+# Github
+For learning git in gtb

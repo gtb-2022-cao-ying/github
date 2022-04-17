@@ -15,4 +15,9 @@ For learning git in gtb
 完成Git部分学习
 
 ### 4.16
-完成cil部分的学习
+完成cil basic 
+
+### 4.17
+回顾之前的基础
+homework-cil-topc
+

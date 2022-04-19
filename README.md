@@ -21,3 +21,6 @@ For learning git in gtb
 回顾之前的基础
 homework-cil-topc
 
+### 4.18-4.19
+完成assignment-todo-cli
+完成Java的初始环境配置

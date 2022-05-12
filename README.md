@@ -25,6 +25,13 @@ homework-cil-topc
 完成assignment-todo-cli
 完成Java的初始环境配置
 
-### 4.20
-完成Java basic的部分内容的学习
-开始homework-java-fundamental
+### 4.20 - 5.7  
+完成Java basic的部分内容的学习;
+开始homework-java-fundamental;
+How to Debug;
+Gradle;
+homework-java-advanced;
+
+### 5.7-5.12
+assignment-todo-java 大体完成；
+修改毕设；

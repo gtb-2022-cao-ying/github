@@ -53,3 +53,6 @@ Mysql RDBMS
 ### 5.28 - 5.30 
 HTML基础；
 homework-html
+
+### 6.1-6.11 
+家中有事请假去外地
